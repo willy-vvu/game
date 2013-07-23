@@ -9,4 +9,4 @@ Some ideas:
 
 Name ideas:
 
--Genesis Rift (by JTC)
+-Genesis Rift
