@@ -2,4 +2,7 @@ game
 ====
 
 A tentative game
-It's very tentative.
+
+Some ideas:
+
+A space and time game with multiple dimensions where you can open rifts in time and space
