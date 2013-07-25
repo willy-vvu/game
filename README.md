@@ -5,7 +5,7 @@ Story
 ====
 ###by Jeff Taylor-Chang
 
-In the year 7438 a mass extinction of the human race occurred. The humans hunger for expansion sped up its inevitable
+	In the year 7438 a mass extinction of the human race occurred. The humans hunger for expansion sped up its inevitable
  destruction. In 2080, the usable space for development has diminished causing a race for the creation of new land. In the
  process, and by mistake, a new and alternate dimension was formed. The problem was that the dimension could not be controlled
  and started to wreak havoc. To prevent the further devastation of the world population, a new type of soldier was created.
