@@ -1,8 +1,7 @@
 Genesis Rift
 ============
 
-###Story
-###by Jeff Taylor-Chang
+###Story - by Jeff Taylor-Chang
 
 In the year 7438 a mass extinction of the human race occurred. The humans hunger for expansion sped up its inevitable
  destruction. In 2080, the usable space for development has diminished causing a race for the creation of new land. In the
