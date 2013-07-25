@@ -102,23 +102,24 @@ function render(){
 
 function handleKeys(){
 	var move=false
+	vector3.set(0,0,0)
 	for(var k=0;k<keysdown.length;k++){
 		switch(keysdown[k]){
 			case 87://W
 				move=true
-				vector3.set(0,0,-1)
+				vector3.z-=1
 				break
 			case 65://A
 				move=true
-				vector3.set(-1,0,0)
+				vector3.x-=1
 				break
 			case 83://S
 				move=true
-				vector3.set(0,0,1)
+				vector3.z+=1
 				break
 			case 68://D
 				move=true
-				vector3.set(1,0,0)
+				vector3.x+=1
 				break
 		}
 	}
@@ -126,7 +127,7 @@ function handleKeys(){
 		vector3_.copy(camera.rotation)
 		vector3_.x=0
 		matrix4.makeRotationFromEuler(vector3_)
-		vector3.transformDirection(matrix4)
+		vector3.normalize().multiplyScalar(0.2).transformDirection(matrix4)
 		camera.position.add(vector3)
 	}
 }
