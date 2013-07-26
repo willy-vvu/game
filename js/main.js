@@ -167,3 +167,32 @@ window.addEventListener('mousemove',function(event){
 document.body.addEventListener('click',function(event){
 	document.body.webkitRequestPointerLock()
 })
+var mouseLeft = false;
+var mouseMiddle = false;
+var mouseRight = false;
+window.addEventListener("mousedown", function(event) {
+	switch(event.which) {
+		case 1:
+			mouseLeft = true;
+			break;
+		case 2:
+			mouseMiddle = true;
+			break;
+		case 3:
+			mouseRight = true;
+			break;
+	}
+});
+window.addEventListener("mouseup", function(event) {
+	switch(event.which) {
+		case 1:
+			mouseLeft = false;
+			break;
+		case 2:
+			mouseMiddle = false;
+			break;
+		case 3:
+			mouseRight = false;
+			break;
+	}
+});
