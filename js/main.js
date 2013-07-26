@@ -121,6 +121,14 @@ function handleKeys(){
 				move=true
 				vector3.x+=1
 				break
+			case 16://SHIFT
+				move = true;
+				vector3.y -= 1;
+				break;
+			case 32://SPACE
+				move = true;
+				vector3.y += 1;
+				break;
 		}
 	}
 	if(move){
