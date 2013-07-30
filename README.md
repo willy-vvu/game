@@ -57,7 +57,7 @@ Other
  
  -Use: MOUSE LEFT BUTTON
  
- -Switch weapon: TAB = 9
+ -Switch manipulation type: TAB = 9
  
  -Open menu: ESCAPE = 27
  
