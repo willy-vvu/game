@@ -18,3 +18,45 @@ In the year 7438 a mass extinction of the human race occurred. The humans hunger
  trooper that was in the alternate dimension. Once he travelled back to his world, he found the destruction. In order to claim
  retribution for the atrocities of world extinction, he set out to destroy the alternate dimension and restore the universe to
  its natural balance. He must save humanity and save the world.
+
+###Game Structure - by Jeff Taylor-Chang
+
+The game structure is sorted chronologically with START being the first and END being the last.
+
+OBJ + number = objective (1 (first), 2 (second), etc.)
+
+CHK + number = checkpoint (1 (first), 2 (second), etc.)
+
+###Possible Control Scheme - by Jeff Taylor-Chang
+
+Movement
+
+ -Forward: W = 87
+ 
+ -Left: A = 65
+ 
+ -Backward: S = 83
+ 
+ -Right: D = 68
+ 
+ -Sprint: R = 82
+ 
+ -Jump: SPACE = 32
+ 
+ -Crouch: SHIFT = 16
+ 
+ -Prone: CONTROL = 17
+ 
+ -Look: MOUSE
+
+Other
+ 
+ -Open/Close portal: MOUSE RIGHT BUTTON
+ 
+ -Interact: F = 70
+ 
+ -Use: MOUSE LEFT BUTTON
+ 
+ -Switch weapon: TAB = 9
+ 
+ -Open menu: ESCAPE = 27
