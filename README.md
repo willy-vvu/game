@@ -60,3 +60,4 @@ Other
  -Switch weapon: TAB = 9
  
  -Open menu: ESCAPE = 27
+ 
