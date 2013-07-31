@@ -1,7 +1,8 @@
 Genesis Rift
 ============
 
-###Story - by Jeff Taylor-Chang
+Story - by Jeff Taylor-Chang
+====
 
 In the year 7438 a mass extinction of the human race occurred. The humans hunger for expansion sped up its inevitable
  destruction. In 2080, the usable space for development had diminished causing a race for the creation of new land. In the
@@ -16,7 +17,7 @@ At first, a select few received prototype devices to test which connected to the
  in their basements to cutting through rush hour traffic. Eventually, the manufacturers were able to develop technology. They slowly changed it from
  a plug-in-to-the-wall to charge device that was large and bulky. After some time they developed a smaller apparatus that was the beginnings of a hand module.
  It was connected to the entire forearm and could charge using solar energy. Then they managed to produce a version that was connected to the hands only like
- a glove but could only open a miniature rift. Then they produced a version that used nuclear fission to produce massive amounts of energy. 
+ a glove but could only open a miniature rift. Then they produced a version that used nuclear fission to produce massive amounts of energy.
  Strangely, many testers reported that their device had mysteriously disappeared, only to receive angry replies from the labs from which
  they had loaned the devices. It was no big deal, right? What's the worst that could happen with such a device, anyway?
 
@@ -95,4 +96,4 @@ Other
 
  -Pause menu: ESCAPE = 27
 
-
+###Trailer
