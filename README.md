@@ -5,21 +5,42 @@ Genesis Rift
 
 In the year 7438 a mass extinction of the human race occurred. The humans hunger for expansion sped up its inevitable
  destruction. In 2080, the usable space for development had diminished causing a race for the creation of new land. In the
- process, and by mistake, a new and alternate dimension was formed. The problem was that the dimension could not be controlled
- and started to wreak havoc. To prevent the further devastation of the world population, a new type of soldier was created.
- These were the Guardians. They didn't use weapons to attempt to solve the conflicts between the two dimensions, and
- instead they possessed the ability to open rifts in space and time to travel between both. They were also capable of manipulating
- their environment. The Guardians were successfully preventing destruction between dimensions until the troopers caused
- the entire world to travel through a gigantic rift, to the year 2079 in order to stop people from creating the dimension.
- Only, they made a mistake and they sent the world hurtling to the year 7438. One Guardian refused to participate in
- creating the rift and travelled into the alternate dimension. When the whole world passed through the rift, all genetically
+ process, and by mistake, new parallel dimensions were discovered.
+ 
+The development on dimension travel progressed at an incredible pace as the nations of the world scrambled to see which would be the
+ first to provide dimension travel techonology to its citizens. Unfortunately, this breakneck pace of innovation resulted
+ in multiple sizable lab accidents across the globe. Despite these accidents, developemnt continued for the potential
+ benefits the technology could have on mankind.
+
+At first, a select few recieved prototype devices to test. They found countless uses, from fitting more things
+ in their basements to cutting through rush hour traffic. Strangely, many testers reported that their device
+ had mysteriously disappeared, only to recieve angry replies from the labs from which they had loaned the devices.
+ It was no big deal, right? What's the worst that could happen with such a device, anyways?
+
+In the months that followed, utter pandemonium broke out around the world. Bank managers would unlock protected
+ company safes to discover that all the money would be gone and that the security cameras showed that nothing happened.
+ Parents would wake up and realize their child had completely vanished from their homes. Figures of authority would
+ mysteriously disappear from their offices, leaving no one in charge. The entire world broke down into shock and fear.
+
+However, all was not lost.
+
+
+*More content goes here*
+
+The problem was that these dimensions could not be controlled and started to wreak havoc. To prevent the further devastation of the world population, a new type of soldier was created.
+ These were the Guardians. They didn't use weapons to attempt to solve the conflicts between dimensions --
+ instead they possessed the ability to open rifts in space and time to travel between them. They were also capable of manipulating
+ their environment. The Guardians were successful in preventing destruction between dimensions until they decided to open
+ a huge rift to let mass colonization of the alternate dimensions to take place. 
+ However, they made a mistake and they sent the world hurtling to the year 7438. One Guardian refused to participate in
+ creating the rift and travelled into an alternate dimension. When the whole world passed through the rift, all genetically
  advanced organisms on earth were annihilated by the creatures of the alternate world, a mirror of the regular. Only the
  world structures survived but were severely damaged by the pull through the rift. The only human that remained was the one
- trooper that was in the alternate dimension. Once he travelled back to his world, he found the destruction. In order to claim
- retribution for the atrocities of world extinction, he set out to destroy the alternate dimension and restore the universe to
+ trooper that was in the third dimension. Once he travelled back to his world, he found the destruction. In order to claim
+ retribution for the atrocities of world extinction, he set out to destroy the extra dimensions and restore the universe to
  its natural balance. He must save humanity and save the world.
 
-###Game Structure - by Jeff Taylor-Chang
+###Game Structure
 
 The game structure is sorted chronologically with START being the first and END being the last.
 
@@ -27,7 +48,19 @@ OBJ + number = objective (1 (first), 2 (second), etc.)
 
 CHK + number = checkpoint (1 (first), 2 (second), etc.)
 
-###Possible Control Scheme - by Jeff Taylor-Chang
+Rooms/locations are dynamically loaded. While you are solving one location, the next will load.
+Saving occurs instantaneously, automatically, and constantly. There is no need to enter a menu / reach a checkpoint.
+
+START
+Wake up in 
+
+
+
+
+
+END
+
+###Possible Control Scheme
 
 Movement
 
@@ -39,25 +72,22 @@ Movement
  
  -Right: D = 68
  
- -Sprint: R = 82
- 
  -Jump: SPACE = 32
  
- -Crouch: SHIFT = 16
+ -Crouch: SHIFT (Is this going to be used at all?)
+  
+Mouse
  
- -Prone: CONTROL = 17
+ -Shoot lefthand rift: LEFT CLICK
  
- -Look: MOUSE
-
+ -Shoot righthand rift: RIGHT CLICK
+ 
+ -Zoom: SCROLL WHEEL OR MIDDLE CLICK
+ 
 Other
- 
- -Open/Close portal: MOUSE RIGHT BUTTON
- 
- -Interact: F = 70
- 
- -Use: MOUSE LEFT BUTTON
- 
- -Switch manipulation type: TAB = 9
- 
- -Open menu: ESCAPE = 27
- 
+
+ -Use: E
+
+ -Pause menu: ESCAPE = 27
+
+
