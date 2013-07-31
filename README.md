@@ -30,7 +30,8 @@ However, all was not lost.
 The problem was that these dimensions could not be controlled and started to wreak havoc. To prevent the further devastation of the world population, a new type of soldier was created.
  These were the Guardians. They didn't use weapons to attempt to solve the conflicts between dimensions
  instead they possessed the ability to open rifts in space and time to travel between them. They were also capable of manipulating
- their environment. The Guardians used the same device as the civilian prototype users had but they were integrated into their special armour.
+ their environment. The Guardians used the same device as the civilian prototype users had but they were integrated into their special armour and released energy through their hands instead.
+ Also, instead of having the energy storage be built onto their back, it was encased in grooves coursing through the armour.
  The Guardians were successful in preventing destruction between dimensions until they decided to open
  a huge rift to let mass colonization of the alternate dimensions to take place. 
  However, they made a mistake and they sent the world hurtling to the year 7438. One Guardian refused to participate in
@@ -75,7 +76,7 @@ Movement
  
  -Jump: SPACE = 32
  
- -Crouch: SHIFT (Is this going to be used at all?)
+ -Crouch: SHIFT
   
 Mouse
  
