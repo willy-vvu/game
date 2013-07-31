@@ -46,7 +46,8 @@ The problem was that these dimensions could not be controlled and started to wre
  retribution for the atrocities of world extinction, he set out to destroy the extra dimensions and restore the universe to
  its natural balance. He must save humanity and save the world.
 
-###Game Structure
+Game Structure
+====
 
 The game structure is sorted chronologically with START being the first and END being the last.
 
@@ -66,7 +67,8 @@ Wake up in
 
 END
 
-###Possible Control Scheme
+Possible Control Scheme
+====
 
 Movement
 
@@ -96,4 +98,9 @@ Other
 
  -Pause menu: ESCAPE = 27
 
-###Trailer
+Trailer
+====
+
+###Début Trailer
+
+###Release Trailer
