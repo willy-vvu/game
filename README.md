@@ -27,7 +27,6 @@ In the months that followed, utter pandemonium broke out around the world. Bank 
 
 However, all was not lost.
 
-
 *More content goes here*
 
 The problem was that these dimensions could not be controlled and started to wreak havoc. To prevent the further devastation of the world population, a new type of soldier was created.
@@ -100,3 +99,15 @@ Other
 ###Début Trailer
 
 ###Release Trailer
+
+##Special Images
+
+###Favicon
+
+###Title image
+
+###Launcher image
+
+The main character is standing in the black dimension and light is being emitted from his suit which
+ is glowing with energy. He has his back to the camera and a large shadow of a monster is visible.
+ The main character is looking back over his shoulder and purple light is coming out of his eye sections.
