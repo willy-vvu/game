@@ -4,7 +4,7 @@ Genesis Rift
 ###Story - by Jeff Taylor-Chang
 
 In the year 7438 a mass extinction of the human race occurred. The humans hunger for expansion sped up its inevitable
- destruction. In 2080, the usable space for development has diminished causing a race for the creation of new land. In the
+ destruction. In 2080, the usable space for development had diminished causing a race for the creation of new land. In the
  process, and by mistake, a new and alternate dimension was formed. The problem was that the dimension could not be controlled
  and started to wreak havoc. To prevent the further devastation of the world population, a new type of soldier was created.
  These were the Guardians. They didn't use weapons to attempt to solve the conflicts between the two dimensions, and
