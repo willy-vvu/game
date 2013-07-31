@@ -8,14 +8,14 @@ In the year 7438 a mass extinction of the human race occurred. The humans hunger
  process, and by mistake, new parallel dimensions were discovered.
  
 The development on dimension travel progressed at an incredible pace as the nations of the world scrambled to see which would be the
- first to provide dimension travel techonology to its citizens. Unfortunately, this breakneck pace of innovation resulted
- in multiple sizable lab accidents across the globe. Despite these accidents, developemnt continued for the potential
+ first to provide dimension travel technology to its citizens. Unfortunately, this breakneck pace of innovation resulted
+ in multiple sizeable lab accidents across the globe. Despite these accidents, development continued for the potential
  benefits the technology could have on mankind.
 
-At first, a select few recieved prototype devices to test. They found countless uses, from fitting more things
+At first, a select few received prototype devices to test which connected to the users hands. They found countless uses, from fitting more things
  in their basements to cutting through rush hour traffic. Strangely, many testers reported that their device
- had mysteriously disappeared, only to recieve angry replies from the labs from which they had loaned the devices.
- It was no big deal, right? What's the worst that could happen with such a device, anyways?
+ had mysteriously disappeared, only to receive angry replies from the labs from which they had loaned the devices.
+ It was no big deal, right? What's the worst that could happen with such a device, anyway?
 
 In the months that followed, utter pandemonium broke out around the world. Bank managers would unlock protected
  company safes to discover that all the money would be gone and that the security cameras showed that nothing happened.
@@ -28,9 +28,10 @@ However, all was not lost.
 *More content goes here*
 
 The problem was that these dimensions could not be controlled and started to wreak havoc. To prevent the further devastation of the world population, a new type of soldier was created.
- These were the Guardians. They didn't use weapons to attempt to solve the conflicts between dimensions --
+ These were the Guardians. They didn't use weapons to attempt to solve the conflicts between dimensions
  instead they possessed the ability to open rifts in space and time to travel between them. They were also capable of manipulating
- their environment. The Guardians were successful in preventing destruction between dimensions until they decided to open
+ their environment. The Guardians used the same device as the civilian prototype users had but they were integrated into their special armour.
+ The Guardians were successful in preventing destruction between dimensions until they decided to open
  a huge rift to let mass colonization of the alternate dimensions to take place. 
  However, they made a mistake and they sent the world hurtling to the year 7438. One Guardian refused to participate in
  creating the rift and travelled into an alternate dimension. When the whole world passed through the rift, all genetically
