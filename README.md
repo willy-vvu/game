@@ -12,10 +12,13 @@ The development on dimension travel progressed at an incredible pace as the nati
  in multiple sizeable lab accidents across the globe. Despite these accidents, development continued for the potential
  benefits the technology could have on mankind.
 
-At first, a select few received prototype devices to test which connected to the users hands. They found countless uses, from fitting more things
- in their basements to cutting through rush hour traffic. Strangely, many testers reported that their device
- had mysteriously disappeared, only to receive angry replies from the labs from which they had loaned the devices.
- It was no big deal, right? What's the worst that could happen with such a device, anyway?
+At first, a select few received prototype devices to test which connected to the users back. They found countless uses, from fitting more things
+ in their basements to cutting through rush hour traffic. Eventually, the manufacturers were able to develop technology. They slowly changed it from
+ a plug-in-to-the-wall to charge device that was large and bulky. After some time they developed a smaller apparatus that was the beginnings of a hand module.
+ It was connected to the entire forearm and could charge using solar energy. Then they managed to produce a version that was connected to the hands only like
+ a glove but could only open a miniature rift. Then they produced a version that used nuclear fission to produce massive amounts of energy. 
+ Strangely, many testers reported that their device had mysteriously disappeared, only to receive angry replies from the labs from which
+ they had loaned the devices. It was no big deal, right? What's the worst that could happen with such a device, anyway?
 
 In the months that followed, utter pandemonium broke out around the world. Bank managers would unlock protected
  company safes to discover that all the money would be gone and that the security cameras showed that nothing happened.
