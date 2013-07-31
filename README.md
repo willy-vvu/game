@@ -106,6 +106,10 @@ Other
 
 ###Title image
 
+The word "Genesis" is in large letters with a slash that cuts off the corner of the word to signify
+ that it is passing through something. The word "Rift" is also passing through the same slash but is offset
+ down on the x and y.
+
 ###Launcher image
 
 The main character is standing in the black dimension and light is being emitted from his suit which
