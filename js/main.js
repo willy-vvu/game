@@ -1,4 +1,6 @@
 renderer=new THREE.WebGLRenderer()
+var width;
+var height;
 holder=document.getElementById('holder')
 holder.appendChild(renderer.domElement)
 composer=new THREE.EffectComposer(renderer)
@@ -36,6 +38,8 @@ coolPass.renderToScreen=true
 composer.addPass(coolPass)
 function resize(){
 	renderer.setSize(window.innerWidth,window.innerHeight)
+	width = window.innerWidth;
+	height = window.innerHeight;
 	composer.setSize(window.innerWidth,window.innerHeight)
 	camera.aspect=window.innerWidth/window.innerHeight
 	camera.updateProjectionMatrix()
