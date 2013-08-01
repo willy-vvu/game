@@ -10,7 +10,7 @@ function handler (req, res) {
 	var uri = url.parse(req.url).pathname;
 	switch(uri){
 		case '/':
-			uri='/website/index.html'
+			uri='/index.html'
 			break
 	}
 	uri=uri.replace(/%20/g,' ')

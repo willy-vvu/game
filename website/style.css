@@ -1,6 +1,41 @@
 body {
-	background-image:url(hex.png);
+	position:absolute;
+	left:0px;
+	top:0px;
 	width:100%;
-	height:auto;
-	background-repeat:no-repeat;
+	height:100%;
+	margin:0px;
+	border:0px;
+	padding:0px;
+}
+div.bgcontent {
+	position:fixed;
+	background-image:url(blueprints.png);
+	-webkit-background-size:100%;
+	width:100%;
+	height:100%;
+}
+div.container {
+	position:relative;
+	height:100%;
+	margin-left:16%;
+	margin-right:16%;
+}
+div.containerHead {
+	height:148px;
+	width:100%;
+	background-color:rgba(50, 50, 50, 0.75);
+	-webkit-border-radius:0px 0px 20px 20px;
+}
+div.containerBody {
+	margin-top:64px;
+	width:100%;
+	min-height:360px;
+	background-color:rgba(50, 50, 50, 0.75);
+	-webkit-border-radius:20px 20px 0px 0px;
+}
+img.titleimage {
+	position:relative;
+	top:10px;
+	left:4px;
 }
