@@ -55,8 +55,8 @@ div.containerBody .firstPhrase {
 	font-weight:600;
 	font-variant:small-caps;
 	font-size:16px;
-	-webkit-text-shadow:2px;
 	line-height:10%;
+	opacity:0;
 }
 div.containerBody .firstPhrase2 {
 	color:white;
@@ -64,8 +64,8 @@ div.containerBody .firstPhrase2 {
 	font-weight:600;
 	font-variant:small-caps;
 	font-size:24px;
-	-webkit-text-shadow:2px;
 	line-height:10%;
+	opacity:0;
 }
 div.containerBody .firstPhrase3 {
 	color:white;
@@ -73,8 +73,8 @@ div.containerBody .firstPhrase3 {
 	font-weight:600;
 	font-variant:small-caps;
 	font-size:30px;
-	-webkit-text-shadow:2px;
 	line-height:10%;
+	opacity:0;
 }
 div.containerBody .firstPhrase4 {
 	color:white;
@@ -82,8 +82,8 @@ div.containerBody .firstPhrase4 {
 	font-weight:600;
 	font-variant:small-caps;
 	font-size:38px;
-	-webkit-text-shadow:2px;
 	line-height:10%;
+	opacity:0;
 }
 div.containerBody .firstPhrase5 {
 	color:white;
@@ -91,8 +91,8 @@ div.containerBody .firstPhrase5 {
 	font-weight:600;
 	font-variant:small-caps;
 	font-size:46px;
-	-webkit-text-shadow:2px;
 	line-height:10%;
+	opacity:0;
 }
 img.titleimage {
 	position:relative;
