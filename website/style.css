@@ -29,12 +29,14 @@ div.container {
 	height:100%;
 }
 div.containerHead {
+	position:relative;
 	height:148px;
 	width:100%;
 	background-color:rgba(50, 50, 50, 0.75);
 	-webkit-border-radius:0px 0px 20px 20px;
 }
 div.containerBody {
+	position:relative;
 	margin-top:64px;
 	width:100%;
 	min-height:360px;
