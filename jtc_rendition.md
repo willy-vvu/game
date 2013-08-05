@@ -11,3 +11,6 @@ Over the many years that humanity existed, they had plenty of time to come up wi
  would have guessed the exact cause of extinction but what was predicted was that ultimatley, the humans love for expansion and
  development, greed, would cause the end of human reign. The question is, how?
 
+The year 2060, a "psychopath" by the name of Renlar was arrested on the streets of Boston for "spreading terror." Still the media
+ had a field day with broadcasting his cynical premonitions. They involved the end of the world. Although he did not predict exactly
+ how, he was a key stepping stone in the start of the end of the world.
