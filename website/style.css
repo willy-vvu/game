@@ -16,11 +16,11 @@ div.bgcontent {
 	position:absolute;
 	left:0px;
 	top:0px;
-}
-div.bgcontent img.main {
-	position:relative;
 	width:100%;
-	height:auto;
+	height:100%;
+	background-image:url(blueprints2.png);
+	background-repeat:no-repeat;
+	background-size:100% auto;
 }
 div.container {
 	position:absolute;
