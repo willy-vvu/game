@@ -14,4 +14,7 @@ $(document).ready(function() {
 	$(".firstPhrase5").delay(8400).animate({
 		opacity:"1"
 	}, 3000);
+	$(".firstPhrase6").delay(10500).animate({
+		opacity:"1"
+	}, 4000);
 });

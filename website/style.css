@@ -18,7 +18,7 @@ div.bgcontent {
 	top:0px;
 	width:100%;
 	height:100%;
-	background-image:url(blueprints2.png);
+	background-image:url(blueprints2_ourlasthope.png);
 	background-repeat:no-repeat;
 	background-size:100% auto;
 }
@@ -91,6 +91,14 @@ div.containerBody .firstPhrase5 {
 	font-weight:600;
 	font-variant:small-caps;
 	font-size:46px;
+	line-height:10%;
+	opacity:0;
+}
+div.containerBody .firstPhrase6 {
+	color:white;
+	text-align:center;
+	font-weight:600;
+	font-size:16px;
 	line-height:10%;
 	opacity:0;
 }
