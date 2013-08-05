@@ -56,11 +56,33 @@ Rooms/locations are dynamically loaded. While you are solving one location, the 
 Saving occurs instantaneously, automatically, and constantly. There is no need to enter a menu / reach a checkpoint.
 
 START
-Wake up in 
 
+You wake up in a nodescript white room. You do not know who you are or how you got there. Voices over the speaker
+ (or some other method) inform you that you are in a training course to become a new type of soldier. At first, they
+ hand you a glasses-like device, called Dimension Vision. This prototype device allows the viewer to perceive objects in other
+ dimensions. You are also introduced to the rift, an opening in space between two dimensions. Also, you are given
+ a device capable of manipulating the environment via pushing and pulling. Your cognitive abilities
+ are put to the test by rooms designed to familiarize and push the limits of what you know. The test supervisors
+ remind you that they will eventually give you a dimension crystal that allows you to change dimensions on your own.
 
-
-
+Midway through the test, an enormous explosion shakes the facility. You happen to be in an elevator, which unhinges and rapidly
+ undergoes free-fall. However, being a glass elevator, you can see the layers of the facility pass by as you descend deeper
+ into the void of the earth. There is a large chunk of the earth missing. You are suprised that you haven't died, and that is because
+ was a beam of energy that stops the elevator.
+ 
+Intrigued, you exit the elevator and examine your surroundings. You appear to be standing in a wrecked laboratory.
+ The beam of light that stopped the elevator shines out of a grate in the ground. Its source comes from deep inside
+ the structure, but a shattered prism reflects it to intercept the elevator's path. From markings on the wall, this
+ is a top secret lab, hidden deep underground. The entrance to the lab has been crushed by shards of the earth that have fallen.
+ Inside the lab, there are test chambers that test a prototype portable dimension travel device, which had been in development
+ before the world fell apart. From the broken device, the dimension crystal that tuned it is on the ground.
+ Utilizing this crystal, you try to navigate the somewhat-intact rooms of the lab to escape back to the surface. However,
+ the chilling fact that no one is in the facility remains in your head before you discover that you are not alone.
+ 
+The reason why the lab was put underground, you discover, was that it had been invaded by monsters from another dimension.
+ The elevator shaft had been cut off to prevent these monsters from propagating upwards. Everywhere, remnants of those
+ who failed to exit the facility before it was sunk. The reason the lab was made, you discover, was to probe different
+ dimensions and what existed in each.
 
 END
 
@@ -109,6 +131,10 @@ Other
 The word "Genesis" is in large letters with a slash that cuts off the corner of the word to signify
  that it is passing through something. The word "Rift" is also passing through the same slash but is offset
  down on the x and y.
+
+###Icon image
+
+G/R
 
 ###Launcher image
 
