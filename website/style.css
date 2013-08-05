@@ -107,3 +107,21 @@ img.titleimage {
 	top:10px;
 	left:4px;
 }
+div.regularBtn {
+	width:256px;
+	height:128px;
+	background-image:url(btn_256x128.png);
+	background-repeat:no-repeat;
+}
+div.regularBtn:hover {
+	width:256px;
+	height:128px;
+	background:url(btn_256x128_hover.png);
+	background-repeat:no-repeat;
+}
+div.regularBtn:active {
+	width:256px;
+	height:128px;
+	background-image:url(btn_256x128_clicked.png);
+	background-repeat:no-repeat;
+}
