@@ -1,6 +1,8 @@
 Genesis Rift
 ====
 
+##Jeff Taylor-Chang, William Wu, Brian Zhao, Shirley Xu
+
 ##Story - by Jeff Taylor-Chang
 
 Over the many years that humanity existed, they had plenty of time to come up with conspiracy theories about who, what, and how
