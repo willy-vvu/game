@@ -36,9 +36,9 @@ Sometimes, people have these very vivid dreams. Renlar woke up one day in cold s
  Boston right into a crime scene. He started waving his arms and yelling about how the world was going to end and so the news
  crew decided to film it. The video made instant success as it was watched by many. He then continued his crusade by atending
  interviews on tv to talk about what happened. Renlar got headlines on almost every single newspaper that existed. Then a few
- years later, 2060, he was walking down his driveway to get his mail when to people in suits walked up on both sides of him and
- grabbed him by the arms. He found himself ushered into a large black van and drove to the police station. The CIA had arrested
- Renlar for what they called "a verble form of terrorism." Renlar was never seen again.
+ years later, 2060, he was walking down his driveway to get his mail when two people in suits walked up on both sides of him and
+ grabbed him by the arms. He found himself ushered into a large black van and drove to the police station. The government had
+ arrested Renlar for what they called "a verble form of terrorism." Renlar was never seen again.
 
 The suggestions that Renlar had made to avoid the end of the world was ignored as would be expected. He asked for people
  to stop something that they hadn't even done yet. He told them not to make another dimension. He also had asked people
