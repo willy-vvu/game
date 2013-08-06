@@ -58,4 +58,4 @@ The years leading up to 2080 were considered the golden ages for development. Sk
  as the rift collapsed on itself. The designers of the generator were dissappointed by what they saw as a failure of their design.
  It hadn't produced a mass of land that was suspended in space in a set distance from the Earth that could be used to build on, but
  instead had produced a gigantic rift. Although their generator didn't produce what they had wanted, it was an amazing discovery in
- the manipulation of space and time. One that wouldn't be realized until it was nearly too late. 
+ the manipulation of space and time. One that wouldn't be realized until it was nearly too late.
