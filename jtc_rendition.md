@@ -3,6 +3,19 @@ Genesis Rift
 
 ##Jeff Taylor-Chang, William Wu, Brian Zhao, Shirley Xu
 
+##About
+
+The game is free and open source but to get expansion packs, you must donate money which goes to a charity
+ that will be started by the creators of Genesis Rift mainly Jeff Taylor-Chang and Brian Zhao. Also any
+ extra donations also go to the same charity. Every penny of profit produced by Genesis Rift donations
+ will be dedicated to the charity.
+
+##The Charity
+
+The charity is called __ and provides the funds required to supply inner city students with computers and other resources
+ to learn because we recognized the importance of computers and how they impact the ability for a student to learn. We also
+ recognize how computers helped us achieve our goals and learn better.
+
 ##Story - by Jeff Taylor-Chang
 
 Over the many years that humanity existed, they had plenty of time to come up with conspiracy theories about who, what, and how
