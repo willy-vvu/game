@@ -10,9 +10,9 @@ The game is free and open source but to get expansion packs, you must donate mon
  extra donations also go to the same charity. Every penny of profit produced by Genesis Rift donations
  will be dedicated to the charity.
 
-##The Charity
+##The Charity - Computed Significance
 
-The charity is called __ and provides the funds required to supply inner city students with computers and other resources
+The charity is called Computed Significance and provides the funds required to supply inner city students with computers and other resources
  to learn because we recognized the importance of computers and how they impact the ability for a student to learn. We also
  recognize how computers helped us achieve our goals and learn better.
 
