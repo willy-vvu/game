@@ -1,7 +1,7 @@
 Genesis Rift
 ====
 
-##Jeff Taylor-Chang, William Wu, Brian Zhao, Shirley Xu
+###Jeff Taylor-Chang, William Wu, Brian Zhao, Shirley Xu
 
 ##About
 
