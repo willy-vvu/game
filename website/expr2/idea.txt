@@ -1,2 +1,5 @@
 Website Experimental Idea #2 - Jeff Taylor-Cang
 
+The user gets to control the character who is in a street. The user can walk over to doors and open them which have more doors inside and show different content.
+ The rooms signify the pages. Buttons that don't lead to a new page are seen as _. Any content can be shown as text on a screen in the game. Textfields are represented
+ as tablets with a keyboard.
