@@ -62,7 +62,7 @@ The heads of each part of the game creation (Essentially what shows up in the cr
 
 ####Main story writer: Jeff Taylor-Chang
 
-##Progmatic Graphical Integration
+##Programmatic Graphical Integration
 
 ####Main Graphics Programmer: Willy Wu
 
