@@ -3,6 +3,22 @@ Genesis Rift
 
 ###Jeff Taylor-Chang, William Wu, Brian Zhao, Shirley Xu
 
+#Position Delegation
+
+######Here are the positions for the game development that are primarily delegated to one person with the sub delegations listed under
+
+###Development
+
+####Game Mechanics Development
+
+####Website Development
+
+#####Main developer: Jeff Taylor-Chang
+
+###Graphic Design
+
+
+
 ##About
 
 The game is free and open source but to get expansion packs, you must donate money which goes to a charity
