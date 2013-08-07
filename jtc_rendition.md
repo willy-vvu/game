@@ -3,21 +3,23 @@ Genesis Rift
 
 ###Jeff Taylor-Chang, William Wu, Brian Zhao, Shirley Xu
 
-#Position Delegation
+##Position Delegation
 
 ######Here are the positions for the game development that are primarily delegated to one person with the sub delegations listed under
-
-###Development
 
 ####Game Mechanics Development
 
 ####Website Development
 
-#####Main developer: Jeff Taylor-Chang
+######Main developer: Jeff Taylor-Chang
 
-###Graphic Design
+####2D Graphics Design
 
+######Main concept art developer: Shirley Xu
 
+####3D Graphics Design
+
+######Main 3D modeler: Brian Zhao
 
 ##About
 
