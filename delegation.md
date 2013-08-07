@@ -62,6 +62,10 @@ The heads of each part of the game creation (Essentially what shows up in the cr
 
 ####Main story writer: Jeff Taylor-Chang
 
+##Progmatic Graphical Integration
+
+####Main Graphics Programmer: Willy Wu
+
 ##2D Graphics Design
 
 ####Main concept art developer: Shirley Xu
