@@ -24,6 +24,14 @@ function isEmpty($variable) {
 	}
 }
 
+function contains($full, $section) {
+	if(strpos($full, $section) === false) {
+		return false;
+	} else {
+		return true;
+	}
+}
+
 function validateUser($username, $password) {
 	if(!isEmpty($username) && !isEmpty($password)) {
 		return true;
@@ -50,7 +58,11 @@ function run() {
 		if(!existsUser($username)) {
 			addUser($username, $password);
 			echo "Your account has been created";
+		} else {
+			echo "The username you picked already exists";
 		}
+	} else {
+		echo "One or more required fields were left blank";
 	}
 }
 
