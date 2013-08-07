@@ -1,0 +1,5 @@
+Website Experimental Idea #1 - Jeff Taylor-Cang
+
+The main character's eye lights flicker on and he is sitting at a desk. He picks up a see through tablet thingy and turns it on. It shows the website. When the user clicks
+ on something, the character clicks on it if it is a button or something of the matter. The tablet then switches to that page. If it is a textfield, a little keyboard
+ shows up and the keys light up as the user presses them.
