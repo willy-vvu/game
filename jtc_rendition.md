@@ -79,8 +79,8 @@ Within days of the returning of the last drone, people around the facility start
  working on some top secret project, and because of the previous accomplishments, they let them be. Within weeks, all video feed from
  the buildings security network was down. Genesis Corp was afraid of what was happening and in a last ditch effort, an engineer drew out
  blueprints to what he believed was the solution. On the day of his death, he came into his office and started drafting out the design
- for a special type of soldier he called "Guardians." While he was drawing the final elements of the drawing, the door opened behind him.
- He was so emmercied in his work that he didn't even hear it. Based on the webcam built into his laptop, the events were as so. The engineer
+ for a special type of soldier he called "Guardians." While he was just about to sign the blueprints, the door opened behind him.
+ He was so immersed in his work that he didn't even hear it. Based on the webcam built into his laptop, the events were as so. The engineer
  could be seen at his desk quickly sketching something when the door opened, only nothing was there. Then papers started to move slightly as
  if there was an air current in the room. Then suddenly, the engineer was flung backwards into the wall where he collapsed to the floor still
  clutching his pen. Then the door slowly closed. After a few minutes, the engineer's eyes fluttered open and he slowly crawled to his drawing.
@@ -90,4 +90,6 @@ Within days of the returning of the last drone, people around the facility start
 The head of Genesis Rift liked the idea of the Guardians and immediatly assigned a team to produce the armor. He then hand selected a team
  of 20 to be the Guardians. All the selected Guardians were put through intense training and hours logged for learning how to use their suits
  to the maximum affectiveness. As soon as the Guardian's were done being trained, they were sent on their first mission. Find and destroy that
- which is lurking in Genesis Corp, at all costs.
+ which was lurking in Genesis Corp, at all costs.
+
+Thus starts the story of Guardian 1's fight for survival and the saving of mankind
