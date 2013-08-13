@@ -59,3 +59,35 @@ The years leading up to 2080 were considered the golden ages for development. Sk
  It hadn't produced a mass of land that was suspended in space in a set distance from the Earth that could be used to build on, but
  instead had produced a gigantic rift. Although their generator didn't produce what they had wanted, it was an amazing discovery in
  the manipulation of space and time. One that wouldn't be realized until it was nearly too late.
+
+No one was fooled by the Governments speeches about the other world that were intended to quell the fear that was developing in the
+ minds of the masses. Thus, many became even more frightened by the fact that the Governments refused to recognize the percieved threat
+ of another world. This caused multiple mass suicides of radical groups of people that had been believed to have been eradicated in the
+ golden years. The facade created by the Government about the absolute lack of biological organisms on the dark planet was demolished
+ nearly over-night by a newly founded company by the name of Genesis Corp. Genesis Corp had been trying to understand the rift in space
+ and had finally, after 5 years of research, had figured out how to replicate the rift on the small scale and sustain it. Then in the
+ year 2086, the corporation launched a small armies worth of unmanned search drones through the rift. What they found was horrifying.
+ They began to realize that the other planet was a parralel planet in which intelligent organisms had taken hold. They were terrible
+ monsters that ruled the darkness. Upon entering the rift, the drones were mostly destroyed. Only one managed to make it back through
+ the rift. That would have been something of a relief for the scientists except for what followed it. The corporation had a celebration
+ for their achievements and revealed to the world what lay on the other side of rifts.
+
+Within days of the returning of the last drone, people around the facility started to disappear. Bodies would be found with their neck's
+ torn and there would be bloody handprints on windows as if someone was trying to escape. The building security was having a nightmare.
+ They found security cameras smashed and electrical conduits ripped out. Something was trying to destroy Genesis Corp and no one knew a
+ shred of information about it. The knowledge of the events were withheld from the public. People naturally assumed that the company was
+ working on some top secret project, and because of the previous accomplishments, they let them be. Within weeks, all video feed from
+ the buildings security network was down. Genesis Corp was afraid of what was happening and in a last ditch effort, an engineer drew out
+ blueprints to what he believed was the solution. On the day of his death, he came into his office and started drafting out the design
+ for a special type of soldier he called "Guardians." While he was drawing the final elements of the drawing, the door opened behind him.
+ He was so emmercied in his work that he didn't even hear it. Based on the webcam built into his laptop, the events were as so. The engineer
+ could be seen at his desk quickly sketching something when the door opened, only nothing was there. Then papers started to move slightly as
+ if there was an air current in the room. Then suddenly, the engineer was flung backwards into the wall where he collapsed to the floor still
+ clutching his pen. Then the door slowly closed. After a few minutes, the engineer's eyes fluttered open and he slowly crawled to his drawing.
+ He pulled himself up to his desk and had the time to write "our last hope" on the blueprints before dropping his pen and falling back to the
+ ground. He never got up again and the security team found him in his office a few hours later.
+
+The head of Genesis Rift liked the idea of the Guardians and immediatly assigned a team to produce the armor. He then hand selected a team
+ of 20 to be the Guardians. All the selected Guardians were put through intense training and hours logged for learning how to use their suits
+ to the maximum affectiveness. As soon as the Guardian's were done being trained, they were sent on their first mission. Find and destroy that
+ which is lurking in Genesis Corp, at all costs.
