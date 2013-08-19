@@ -93,3 +93,13 @@ The head of Genesis Rift liked the idea of the Guardians and immediatly assigned
  which was lurking in Genesis Corp, at all costs.
 
 Thus starts the story of Guardian 1's fight for survival and the saving of mankind
+
+##Trailer 1
+
+The earth is shown from space and it shows timelapsed development. The insane pase at which human growth expanded is shown and there is a time
+ stamp in the corner. Once it gets to the year 2060 from 2020 it shows Renlar's story. Then it continues until 2079 when the rift was made.
+ It shows the rift. Then it shows the Genesis Corp problem with views from security cameras and then the webcam of the engineer. Then the head
+ of Genesis Corp at a table with the blueprints telling people what to do. Then it shows robotic arms building the suits. Then the suit is finished
+ and the camera starts to fly around like the crysis suit video. Then when it gets to the helmet, it shows the front and suddenly the lights in the
+ eye pieces glow on and the title is shown. Then it acts like the screen shutdown and says the day it is coming out and that all profits go to charity
+ and the website link
